@@ -271,5 +271,4 @@
   [auth-key]
   (println (str "connecting to " auth-key))
   (connect-to-slack auth-key)
-  (println "connected")
-  (while true true))
+  (println "connected"))
