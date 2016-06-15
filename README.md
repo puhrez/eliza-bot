@@ -1,6 +1,6 @@
 # ELIZA-bot
 
-A simple slack bot based of [ELIZA](https://en.wikipedia.org/wiki/ELIZA).
+A simple slack bot based off [ELIZA](https://en.wikipedia.org/wiki/ELIZA).
 
 ## Usage
 
